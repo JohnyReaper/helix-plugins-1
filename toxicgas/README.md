@@ -4,6 +4,7 @@
 ![](https://i.imgur.com/G9RUG3d.jpg)
 
 ### Models are from [HL2 RP Essential Faction Models](https://steamcommunity.com/sharedfiles/filedetails/?id=636614821) on the workshop.
+#### You can change the item models and the pac outfit to whatever you want though.
 
 ## Usage
 
